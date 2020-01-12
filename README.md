@@ -16,4 +16,4 @@
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2743/)
 
 [L0006](https://leetcode-cn.com/problems/zigzag-conversion):
-[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2696/)
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2746/)
