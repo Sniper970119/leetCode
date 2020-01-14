@@ -23,3 +23,6 @@
 
 [L0008](https://leetcode-cn.com/problems/string-to-integer-atoi/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2766/)
+
+[L0009](https://leetcode-cn.com/problems/palindrome-number):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2773/)
