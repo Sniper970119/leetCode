@@ -26,3 +26,6 @@
 
 [L0009](https://leetcode-cn.com/problems/palindrome-number):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2773/)
+
+[L0010](https://leetcode-cn.com/problems/regular-expression-matching/):
+[笔记链接](http://www.sniper97.cn/index.php/uncategorized/2775/)
