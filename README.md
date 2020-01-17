@@ -35,3 +35,6 @@
 
 [L0012](https://leetcode-cn.com/problems/integer-to-roman/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2784/)
+
+[L0012](https://leetcode-cn.com/problems/roman-to-integer/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2787/)
