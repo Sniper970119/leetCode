@@ -7,7 +7,6 @@ class Solution(object):
         :rtype: List[int]
         """
         temp = [target - nums[i] for i in range(len(nums))]
-        # 使用哈希map来缩短
         for i in range(len(nums)):
             flag = nums[i]
             for j in range(len(temp)):
