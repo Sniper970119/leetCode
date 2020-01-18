@@ -41,3 +41,6 @@
 
 [L0014](https://leetcode-cn.com/problems/longest-common-prefix/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2789/)
+
+[L0015](https://leetcode-cn.com/problems/3sum/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2791/)
