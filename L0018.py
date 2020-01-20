@@ -58,12 +58,7 @@ class Solution(object):
                         right -= 1
                     if temp < new_target:
                         left += 1
-        # 最后硬核去重
-        res_final = []
-        for each in res:
-            if each not in res_final:
-                res_final.append(each)
-        return res_final
+        return res
 
 
 if __name__ == '__main__':
