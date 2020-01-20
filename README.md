@@ -51,4 +51,5 @@
 [L0017](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2796/)
 
-
+[L0018](https://leetcode-cn.com/problems/4sum/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2798/)
