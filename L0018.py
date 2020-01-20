@@ -32,11 +32,15 @@ class Solution(object):
         # 选定a
         for i in range(len(nums)):
             # 选定b
+            if i > 0 and nums[i] == nums[i- 1]:
+                continue
             new_target = target - nums[i]
             new_nums = nums[i + 1:]
             for j in range(len(new_nums) - 2):
                 left = j + 1
                 right = len(new_nums) - 1
+                if j > 0 and new_nums[j] == new_nums[j - 1]:
+                    continue
                 while left < right:
                     temp = new_nums[j] + new_nums[left] + new_nums[right]
                     if temp == new_target:
