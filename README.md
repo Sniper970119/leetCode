@@ -53,3 +53,9 @@
 
 [L0018](https://leetcode-cn.com/problems/4sum/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2798/)
+
+[L0019](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2800/)
+
+[L0020](https://leetcode-cn.com/problems/valid-parentheses/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2802/)
