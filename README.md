@@ -58,4 +58,4 @@
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2800/)
 
 [L0020](https://leetcode-cn.com/problems/valid-parentheses/):
-[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2802/)
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2802/) 
