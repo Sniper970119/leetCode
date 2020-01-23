@@ -60,5 +60,11 @@
 [L0020](https://leetcode-cn.com/problems/valid-parentheses/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2802/) 
 
-[L0020](https://leetcode-cn.com/problems/merge-two-sorted-lists/):
+[L0021](https://leetcode-cn.com/problems/merge-two-sorted-lists/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2805/) 
+
+[L0022](https://leetcode-cn.com/problems/generate-parentheses/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2807/) 
+
+[L0023](https://leetcode-cn.com/problems/merge-two-sorted-lists/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2809/)
