@@ -69,5 +69,8 @@
 [L0023](https://leetcode-cn.com/problems/merge-two-sorted-lists/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2809/)
 
-[L0023](https://leetcode-cn.com/problems/swap-nodes-in-pairs/):
+[L0024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2812/)
+
+[L0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2815/)
