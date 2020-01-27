@@ -77,3 +77,6 @@
 
 [L0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2818/)
+
+[L0027](https://leetcode-cn.com/problems/remove-element/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2820/)
