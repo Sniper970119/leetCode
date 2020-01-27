@@ -74,3 +74,6 @@
 
 [L0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2815/)
+
+[L0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2818/)
