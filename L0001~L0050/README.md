@@ -80,3 +80,6 @@
 
 [L0027](https://leetcode-cn.com/problems/remove-element/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2820/)
+
+[L0028](https://leetcode-cn.com/problems/implement-strstr/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2822/)
