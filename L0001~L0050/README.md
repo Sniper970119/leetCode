@@ -84,5 +84,8 @@
 [L0028](https://leetcode-cn.com/problems/implement-strstr/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2822/)
 
-[L0028](https://leetcode-cn.com/problems/divide-two-integers/):
+[L0029](https://leetcode-cn.com/problems/divide-two-integers/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2826/)
+
+[L0030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2828/)
