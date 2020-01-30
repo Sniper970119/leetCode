@@ -89,3 +89,7 @@
 
 [L0030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2828/)
+
+[L0031](https://leetcode-cn.com/problems/next-permutation/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2830/)
+
