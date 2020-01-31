@@ -93,5 +93,8 @@
 [L0031](https://leetcode-cn.com/problems/next-permutation/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2830/)
 
-[L0031](https://leetcode-cn.com/problems/longest-valid-parentheses/):
+[L0032](https://leetcode-cn.com/problems/longest-valid-parentheses/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2832/)
+
+[L0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2834/)
