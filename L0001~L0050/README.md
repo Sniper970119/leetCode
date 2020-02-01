@@ -98,3 +98,6 @@
 
 [L0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2834/)
+
+[L0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2836/)
