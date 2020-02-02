@@ -102,5 +102,8 @@
 [L0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2836/)
 
-[L0034](https://leetcode-cn.com/problems/search-insert-position/):
+[L0035](https://leetcode-cn.com/problems/search-insert-position/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2838/)
+
+[L0036](https://leetcode-cn.com/problems/valid-sudoku/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2840/)
