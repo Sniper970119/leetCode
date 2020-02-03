@@ -70,7 +70,6 @@ class Solution(object):
             return False
 
         return find_s(0)
-        pass
 
 
 if __name__ == '__main__':
