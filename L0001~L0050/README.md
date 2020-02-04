@@ -114,3 +114,6 @@
 [L0038](https://leetcode-cn.com/problems/count-and-say/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2877/)
 
+[L0039](https://leetcode-cn.com/problems/combination-sum/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2879/)
+
