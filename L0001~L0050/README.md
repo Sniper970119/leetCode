@@ -110,3 +110,7 @@
 
 [L0037](https://leetcode-cn.com/problems/sudoku-solver/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2861/)
+
+[L0038](https://leetcode-cn.com/problems/count-and-say/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2877/)
+
