@@ -117,3 +117,5 @@
 [L0039](https://leetcode-cn.com/problems/combination-sum/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2879/)
 
+[L0040](https://leetcode-cn.com/problems/combination-sum-ii/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2881/)
