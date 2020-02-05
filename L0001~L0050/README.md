@@ -119,3 +119,6 @@
 
 [L0040](https://leetcode-cn.com/problems/combination-sum-ii/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2881/)
+
+[L0041](https://leetcode-cn.com/problems/first-missing-positive/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2883/)
