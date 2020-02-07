@@ -125,3 +125,6 @@
 
 [L0042](https://leetcode-cn.com/problems/trapping-rain-water/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2886/)
+
+[L0043](https://leetcode-cn.com/problems/multiply-strings/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2898/)
