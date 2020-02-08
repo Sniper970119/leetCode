@@ -128,3 +128,6 @@
 
 [L0043](https://leetcode-cn.com/problems/multiply-strings/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2898/)
+
+[L0043](https://leetcode-cn.com/problems/wildcard-matching/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2901/)
