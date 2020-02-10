@@ -41,7 +41,27 @@ class Solution(object):
         backtrack()
         return output
 
+    def permute1(self, nums):
+        def backtrack(i, flag_list, temp_list=[]):
+            if i == n:
+                output.append(temp_list)
+                return
+            # 找到第一个可用数字
+            for j in range(len(flag_list)):
+                if flag_list[j] != 0:
+                    flag_list[j] = 0
+                    temp_list.append(nums[j])
+                    backtrack(i + 1, flag_list[:], temp_list[:])
+                    flag_list[j] = 1
+                    temp_list = temp_list[:-1]
+
+        n = len(nums)
+        output = []
+        flag_list = [1 for _ in range(n)]
+        backtrack(0, flag_list)
+        return output
+
 
 if __name__ == '__main__':
     nums = [1, 2, 3]
-    print(Solution().permute(nums))
+    print(Solution().permute1(nums))
