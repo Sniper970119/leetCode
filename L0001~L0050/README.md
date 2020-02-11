@@ -135,5 +135,8 @@
 [L0045](https://leetcode-cn.com/problems/jump-game-ii/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2912/)
 
-[L0045](https://leetcode-cn.com/problems/permutations/):
+[L0046](https://leetcode-cn.com/problems/permutations/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2916/)
+
+[L0047](https://leetcode-cn.com/problems/permutations-ii/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2919/)
