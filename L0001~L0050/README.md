@@ -140,3 +140,6 @@
 
 [L0047](https://leetcode-cn.com/problems/permutations-ii/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2919/)
+
+[L0048](https://leetcode-cn.com/problems/rotate-image/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2922/)
