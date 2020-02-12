@@ -146,3 +146,6 @@
 
 [L0049](https://leetcode-cn.com/problems/group-anagrams/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2929/)
+
+[L0050](https://leetcode-cn.com/problems/powx-n/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2931/)
