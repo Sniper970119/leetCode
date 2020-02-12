@@ -143,3 +143,6 @@
 
 [L0048](https://leetcode-cn.com/problems/rotate-image/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2922/)
+
+[L0049](https://leetcode-cn.com/problems/group-anagrams/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2929/)
