@@ -11,3 +11,6 @@
 
 [T14](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2942/)
+
+[T20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
