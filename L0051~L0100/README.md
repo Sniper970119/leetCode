@@ -11,6 +11,9 @@
 [L0054](https://leetcode-cn.com/problems/spiral-matrix/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2947/)
 
+[L0055](https://leetcode-cn.com/problems/jump-game/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2949/)
+
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
