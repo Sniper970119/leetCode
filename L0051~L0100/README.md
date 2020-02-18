@@ -14,6 +14,9 @@
 [L0055](https://leetcode-cn.com/problems/jump-game/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2949/)
 
+[L0056](https://leetcode-cn.com/problems/merge-intervals/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2969/)
+
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
