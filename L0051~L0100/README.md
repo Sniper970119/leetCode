@@ -20,6 +20,8 @@
 [L0057](https://leetcode-cn.com/problems/insert-interval/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2969/)
 
+[L0058](https://leetcode-cn.com/problems/length-of-last-word/):简单字符串处理
+
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
