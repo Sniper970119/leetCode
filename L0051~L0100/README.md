@@ -25,6 +25,9 @@
 [L0059](https://leetcode-cn.com/problems/spiral-matrix-ii/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2975/)
 
+[L0060](https://leetcode-cn.com/problems/permutation-sequence/):
+[笔记链接](www.sniper97.cn/index.php/note/algorithm/3005/)
+
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
