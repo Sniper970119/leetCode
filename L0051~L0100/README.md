@@ -28,9 +28,10 @@
 [L0060](https://leetcode-cn.com/problems/permutation-sequence/):
 [笔记链接](www.sniper97.cn/index.php/note/algorithm/3005/)
 
-[L0060](https://leetcode-cn.com/problems/rotate-list/):尾部向前数第K个元素作为头，原来的头接到原来的尾上
+[L0061](https://leetcode-cn.com/problems/rotate-list/):尾部向前数第K个元素作为头，原来的头接到原来的尾上
 
-
+[L0062](https://leetcode-cn.com/problems/unique-paths/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3011/)
 
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
