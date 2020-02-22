@@ -65,6 +65,7 @@ class Solution(object):
 
     def uni(self, obstacleGrid):
         m, n = len(obstacleGrid[0]), len(obstacleGrid)
+        # 这里后面多一个0是为了当j==0时j-1能取到（正确的）值
         dp = [1] + [0] * m
         for i in range(0, n):
             for j in range(0, m):
