@@ -33,6 +33,9 @@
 [L0062](https://leetcode-cn.com/problems/unique-paths/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3011/)
 
+[L0063](https://leetcode-cn.com/problems/unique-paths-ii/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3014/)
+
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
