@@ -42,6 +42,8 @@
 [L0065](https://leetcode-cn.com/problems/valid-number/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2945/)
 
+[L0065](https://leetcode-cn.com/problems/plus-one/):转型计算或者按位计算
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
