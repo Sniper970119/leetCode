@@ -49,6 +49,8 @@
 [L0068](https://leetcode-cn.com/problems/text-justification/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3020/)
 
+[L0069](https://leetcode-cn.com/problems/sqrtx/):牛顿迭代法
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
