@@ -53,6 +53,9 @@
 
 [L0070](https://leetcode-cn.com/problems/climbing-stairs/):简单动态规划
 
+[L0071](https://leetcode-cn.com/problems/simplify-path/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3067/)
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
