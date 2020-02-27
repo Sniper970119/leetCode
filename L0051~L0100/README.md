@@ -56,6 +56,9 @@
 [L0071](https://leetcode-cn.com/problems/simplify-path/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3067/)
 
+[L0072](https://leetcode-cn.com/problems/edit-distance/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3070/)
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
