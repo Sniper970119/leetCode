@@ -59,6 +59,9 @@
 [L0072](https://leetcode-cn.com/problems/edit-distance/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3070/)
 
+[L0073](https://leetcode-cn.com/problems/set-matrix-zeroes/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3091/)
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
