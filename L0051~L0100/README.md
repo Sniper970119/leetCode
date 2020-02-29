@@ -65,6 +65,9 @@
 [L0074](https://leetcode-cn.com/problems/search-a-2d-matrix/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3093/)
 
+[L0075](https://leetcode-cn.com/problems/sort-colors/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3096/)
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
