@@ -71,6 +71,8 @@
 [L0076](https://leetcode-cn.com/problems/minimum-window-substring/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3107/)
 
+[L0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/):遍历去重
+
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
