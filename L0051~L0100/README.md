@@ -68,13 +68,15 @@
 [L0075](https://leetcode-cn.com/problems/sort-colors/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3096/)
 
-[L0076](https://leetcode-cn.com/problems/combinations/):回溯
 
-[L0077](https://leetcode-cn.com/problems/minimum-window-substring/):
+[L0076](https://leetcode-cn.com/problems/minimum-window-substring/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3107/)
 
-[L0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/):遍历去重
+[L0077](https://leetcode-cn.com/problems/combinations/):回溯
+
+[L0078](https://leetcode-cn.com/problems/subsets/):和上道题基本一样，回溯，取消回溯判断
 
 [L0079](https://leetcode-cn.com/problems/word-search/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/2938/)
 
+[L0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/):遍历去重
