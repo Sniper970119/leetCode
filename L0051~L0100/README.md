@@ -68,7 +68,9 @@
 [L0075](https://leetcode-cn.com/problems/sort-colors/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3096/)
 
-[L0076](https://leetcode-cn.com/problems/minimum-window-substring/):
+[L0076](https://leetcode-cn.com/problems/combinations/):回溯
+
+[L0077](https://leetcode-cn.com/problems/minimum-window-substring/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3107/)
 
 [L0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/):遍历去重
