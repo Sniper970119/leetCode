@@ -88,4 +88,7 @@
 
 [L0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/):遍历去重
 
-[L0083](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/):中心扩散&分治
+[L0084](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/):中心扩散&分治
+
+[L0085](https://leetcode-cn.com/problems/maximal-rectangle/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3128/)
