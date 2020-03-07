@@ -94,3 +94,6 @@
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3128/)
 
 [L0086](https://leetcode-cn.com/problems/partition-list/):遍历判断，如果大于等于target添加到新链，最后组合
+
+[L0087](https://leetcode-cn.com/problems/scramble-string/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3155/)
