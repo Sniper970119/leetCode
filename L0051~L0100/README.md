@@ -102,3 +102,7 @@
 
 [L0089](https://leetcode-cn.com/problems/gray-code/):格雷编码固定公式
 
+[L0090](https://leetcode-cn.com/problems/subsets-ii/):
+[笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3175/)
+
+
