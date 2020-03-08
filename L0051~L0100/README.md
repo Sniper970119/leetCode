@@ -100,3 +100,5 @@
 
 [L0088](https://leetcode-cn.com/problems/merge-sorted-array/):插入排序（也可以遍历插入，会到On）
 
+[L0089](https://leetcode-cn.com/problems/gray-code/):格雷编码固定公式
+
