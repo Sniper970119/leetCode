@@ -97,3 +97,6 @@
 
 [L0087](https://leetcode-cn.com/problems/scramble-string/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3155/)
+
+[L0088](https://leetcode-cn.com/problems/merge-sorted-array/):插入排序（也可以遍历插入，会到On）
+
