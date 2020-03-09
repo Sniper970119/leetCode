@@ -105,4 +105,6 @@
 [L0090](https://leetcode-cn.com/problems/subsets-ii/):
 [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3175/)
 
+[L0091](https://leetcode-cn.com/problems/decode-ways/):动态规划（爬楼梯）
 
+[L0091](https://leetcode-cn.com/problems/reverse-linked-list-ii/):链表翻转，遍历一次找n前置位置，然后对n~m区间做尾插
