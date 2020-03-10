@@ -107,4 +107,7 @@
 
 [L0091](https://leetcode-cn.com/problems/decode-ways/):动态规划（爬楼梯）
 
-[L0091](https://leetcode-cn.com/problems/reverse-linked-list-ii/):链表翻转，遍历一次找n前置位置，然后对n~m区间做尾插
+[L0092](https://leetcode-cn.com/problems/reverse-linked-list-ii/):链表翻转，遍历一次找n前置位置，然后对n~m区间做尾插
+
+[L0093](https://leetcode-cn.com/problems/restore-ip-addresses/):回溯法，需要注意边界可以剪枝（不然可能会超时），需要判断str(int(temp_s)) != temp_s，以防止xxx.010.xxx的出现
+
