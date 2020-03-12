@@ -117,3 +117,5 @@
 
 [L0096](https://leetcode-cn.com/problems/unique-binary-search-trees/):卡特兰数
 
+[L0098](https://leetcode-cn.com/problems/validate-binary-search-tree/):中序遍历
+
