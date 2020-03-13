@@ -119,3 +119,6 @@
 
 [L0098](https://leetcode-cn.com/problems/validate-binary-search-tree/):中序遍历
 
+[L00100](https://leetcode-cn.com/problems/same-tree/):遍历查看是否相等
+
+
