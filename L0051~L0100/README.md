@@ -121,6 +121,8 @@
 
 [L0098](https://leetcode-cn.com/problems/validate-binary-search-tree/):中序遍历
 
+[L0099](https://leetcode-cn.com/problems/recover-binary-search-tree/):中序遍历,然后根据顺序（因为是搜索树，所以中序遍历应该有序）差异交换位置。对于O（1）的需求可以使用morris遍历。
+
 [L0100](https://leetcode-cn.com/problems/same-tree/):遍历查看是否相等
 
 
