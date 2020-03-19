@@ -12,5 +12,7 @@
 
 [L0106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/): 根据后序遍历切割中序遍历递归
 
-[L0107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/): L102倒序输出
+[L0107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/): L0102倒序输出
+
+[L0107](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/): 二分法构造树
 
