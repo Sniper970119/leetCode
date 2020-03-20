@@ -18,3 +18,5 @@
 
 [L0109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/): 链表转数组，二分法构造树
 
+[L0110](https://leetcode-cn.com/problems/balanced-binary-tree/): 深搜+断言提前退出
+
