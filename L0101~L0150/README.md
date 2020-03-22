@@ -24,3 +24,5 @@
 
 [L0112](https://leetcode-cn.com/problems/path-sum/): 也是遍历，多个判断而已。
 
+[L0113](https://leetcode-cn.com/problems/path-sum/): 和上道题一样，多一个列表存储结果。
+
