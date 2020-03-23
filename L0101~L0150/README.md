@@ -26,3 +26,7 @@
 
 [L0113](https://leetcode-cn.com/problems/path-sum/): 和上道题一样，多一个列表存储结果。
 
+[L0113](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/): 前序遍历+链表生成
+
+
+
