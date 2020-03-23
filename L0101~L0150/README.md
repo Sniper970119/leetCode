@@ -26,7 +26,9 @@
 
 [L0113](https://leetcode-cn.com/problems/path-sum/): 和上道题一样，多一个列表存储结果。
 
-[L0113](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/): 前序遍历+链表生成
+[L0114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/): 前序遍历+链表生成
+
+[L0115](https://leetcode-cn.com/problems/distinct-subsequences/): 这道题刚开始我用回溯做的，超时，然后就用递归，递归式为if si==tj,dpij=dpi-1 j-1 else dp ij = dp i j-1
 
 
 
