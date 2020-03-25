@@ -30,7 +30,9 @@
 
 [L0115](https://leetcode-cn.com/problems/distinct-subsequences/): 这道题刚开始我用回溯做的，超时，然后就用递归，递归式为if si==tj,dpij=dpi-1 j-1 else dp ij = dp i j-1
 
-[L0115](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/): 层序遍历连指针
+[L0116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/): 层序遍历连指针
+
+[L0117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/): 层序遍历连指针
 
 
 
