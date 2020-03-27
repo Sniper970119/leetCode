@@ -38,6 +38,8 @@
 
 [L0119](https://leetcode-cn.com/problems/pascals-triangle-ii/): 杨辉三角
 
+[L0119](https://leetcode-cn.com/problems/pascals-triangle-ii/): 动态规划
+
 
 
 
