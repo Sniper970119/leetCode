@@ -42,6 +42,8 @@
 
 [L0121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/): 遍历寻找最小值和最大值（要遍历不要用自带函数，因为遍历可以避免最大值出现在最小值之前的情况）
 
+[L0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/): 贪心，以一天为单位，涨就买，跌就观望
+
 
 
 
