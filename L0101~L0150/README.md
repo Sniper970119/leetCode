@@ -44,6 +44,8 @@
 
 [L0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/): 贪心，以一天为单位，涨就买，跌就观望
 
+[L0125](https://leetcode-cn.com/problems/valid-palindrome/): 处理非数字和字母的字符然后[::-1]比较
+
 
 
 
