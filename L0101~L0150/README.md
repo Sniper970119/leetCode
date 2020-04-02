@@ -44,7 +44,9 @@
 
 [L0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/): 贪心，以一天为单位，涨就买，跌就观望
 
-[L0122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/): 动态规划（有点难呜呜呜呜）[笔记](http://www.sniper97.cn/index.php/note/algorithm/3419/)
+[L0123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/): 动态规划（有点难呜呜呜呜）[笔记](http://www.sniper97.cn/index.php/note/algorithm/3419/)
+
+[L0124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/): 深度优先遍历，每一个子树的最大结果向上传播到根节点。
 
 [L0125](https://leetcode-cn.com/problems/valid-palindrome/): 处理非数字和字母的字符然后[::-1]比较
 
