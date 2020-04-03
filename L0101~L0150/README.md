@@ -50,6 +50,8 @@
 
 [L0125](https://leetcode-cn.com/problems/valid-palindrome/): 处理非数字和字母的字符然后[::-1]比较
 
+[L0126](https://leetcode-cn.com/problems/word-ladder-ii/): 深搜回溯，可以参考L0127的笔记，不过L0127是广搜，总体思想类似。
+
 [L0127](https://leetcode-cn.com/problems/word-ladder/): [笔记](http://www.sniper97.cn/index.php/note/algorithm/3430/)
 
 
