@@ -54,6 +54,8 @@
 
 [L0127](https://leetcode-cn.com/problems/word-ladder/): [笔记](http://www.sniper97.cn/index.php/note/algorithm/3430/)
 
+[L0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/): 使用set，因为set使用树结构，因此插入lgn，查找也是lgn ，均小于n
+
 
 
 
