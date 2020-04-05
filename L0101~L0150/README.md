@@ -56,6 +56,8 @@
 
 [L0128](https://leetcode-cn.com/problems/longest-consecutive-sequence/): 使用set，因为set使用树结构，因此插入lgn，查找也是lgn ，均小于n
 
+[L0129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/): 深搜
+
 
 
 
