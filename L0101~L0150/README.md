@@ -62,6 +62,8 @@
 
 [L0131](https://leetcode-cn.com/problems/palindrome-partitioning/): 迭代递增结果集中的回文字串
 
+[L0132](https://leetcode-cn.com/problems/palindrome-partitioning-ii/): 动态规划
+
 
 
 
