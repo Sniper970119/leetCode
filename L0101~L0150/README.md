@@ -64,6 +64,8 @@
 
 [L0132](https://leetcode-cn.com/problems/palindrome-partitioning-ii/): 动态规划
 
+[L0133](https://leetcode-cn.com/problems/palindrome-partitioning-ii/): 直接copy.deepcopy   python真香
+
 
 
 
