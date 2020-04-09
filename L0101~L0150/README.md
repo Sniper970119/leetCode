@@ -66,6 +66,8 @@
 
 [L0133](https://leetcode-cn.com/problems/palindrome-partitioning-ii/): 直接copy.deepcopy   python真香
 
+[L0134](https://leetcode-cn.com/problems/gas-station/): 遍历判断
+
 
 
 
