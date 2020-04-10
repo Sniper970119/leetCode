@@ -68,6 +68,8 @@
 
 [L0134](https://leetcode-cn.com/problems/gas-station/): 遍历判断
 
+[L0135](https://leetcode-cn.com/problems/candy/): 从两侧进行两边循环，分别寻找满足条件的情况，最后将两次遍历的结果取最大值求和返回。
+
 
 
 
