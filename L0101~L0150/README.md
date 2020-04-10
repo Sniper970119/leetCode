@@ -70,6 +70,8 @@
 
 [L0135](https://leetcode-cn.com/problems/candy/): 从两侧进行两边循环，分别寻找满足条件的情况，最后将两次遍历的结果取最大值求和返回。
 
+[L0136](https://leetcode-cn.com/problems/single-number/): 去重乘2，减去原列表就是只出现一次的数字
+
 
 
 
