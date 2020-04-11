@@ -72,6 +72,8 @@
 
 [L0136](https://leetcode-cn.com/problems/single-number/): 去重乘2，减去原列表就是只出现一次的数字
 
+[L0136](https://leetcode-cn.com/problems/single-number-ii/): 去重乘3，减去原列表除二，就是只出现一次的数字
+
 
 
 
