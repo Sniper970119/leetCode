@@ -76,6 +76,9 @@
 
 [L0138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/): deepcopy
 
+[L0139](https://leetcode-cn.com/problems/word-break/): dp
+
+
 
 
 
