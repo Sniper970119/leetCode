@@ -80,7 +80,9 @@
 
 [L0140](https://leetcode-cn.com/problems/word-break-ii/): dfs
 
-[L0140](https://leetcode-cn.com/problems/linked-list-cycle/): 遍历链表更改数据，如遇到更改过的点则True
+[L0141](https://leetcode-cn.com/problems/linked-list-cycle/): 遍历链表更改数据，如遇到更改过的点则True
+
+[L0142](https://leetcode-cn.com/problems/linked-list-cycle-ii/): 将遍历过的点送入set，重复返回
 
 
 
