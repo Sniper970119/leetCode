@@ -86,6 +86,10 @@
 
 [L0143](https://leetcode-cn.com/problems/reorder-list/): 链表操作
 
+[L0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/): 前序遍历
+
+[L0145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/): 后序遍历
+
 
 
 
