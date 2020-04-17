@@ -90,6 +90,8 @@
 
 [L0145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/): 后序遍历
 
+[L0146](https://leetcode-cn.com/problems/lru-cache/): 模仿队列进行更新即可
+
 
 
 
