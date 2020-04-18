@@ -92,6 +92,8 @@
 
 [L0146](https://leetcode-cn.com/problems/lru-cache/): 模仿队列进行更新即可
 
+[L0147](https://leetcode-cn.com/problems/insertion-sort-list/): 插入排序，只不过列表换成数组
+
 
 
 
