@@ -96,6 +96,8 @@
 
 [L0148](https://leetcode-cn.com/problems/sort-list/): 链表的归并排序
 
+[L0149](https://leetcode-cn.com/problems/max-points-on-a-line/): 穷举所有点对的斜率，然后添加到字典，判断有多少对点斜率相同。
+
 
 
 
