@@ -98,6 +98,8 @@
 
 [L0149](https://leetcode-cn.com/problems/max-points-on-a-line/): 穷举所有点对的斜率，然后添加到字典，判断有多少对点斜率相同。
 
+[L0149](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/): 栈操作
+
 
 
 
