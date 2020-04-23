@@ -8,3 +8,5 @@
 [L0154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/): min
 
 [L0155](https://leetcode-cn.com/problems/min-stack/): 栈操作
+
+[L0160](https://leetcode-cn.com/problems/min-stack/): 拼接两个链表，分别从各自表头遍历，指针相等即为重复位置
