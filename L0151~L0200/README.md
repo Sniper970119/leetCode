@@ -10,3 +10,5 @@
 [L0155](https://leetcode-cn.com/problems/min-stack/): 栈操作
 
 [L0160](https://leetcode-cn.com/problems/min-stack/): 拼接两个链表，分别从各自表头遍历，指针相等即为重复位置
+
+[L0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/): 从两侧向内进行查找
