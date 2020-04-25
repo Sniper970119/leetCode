@@ -11,6 +11,8 @@
 
 [L0160](https://leetcode-cn.com/problems/min-stack/): 拼接两个链表，分别从各自表头遍历，指针相等即为重复位置
 
+[L0162](https://leetcode-cn.com/problems/find-peak-element/): index max
+
 [L0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/): 从两侧向内进行查找
 
 [L0168](https://leetcode-cn.com/problems/excel-sheet-column-title/): 单纯的映射
