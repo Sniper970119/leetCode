@@ -13,6 +13,8 @@
 
 [L0162](https://leetcode-cn.com/problems/find-peak-element/): index max
 
+[L0164](https://leetcode-cn.com/problems/maximum-gap/): 桶排序，然后找最长空桶数
+
 [L0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/): 从两侧向内进行查找
 
 [L0168](https://leetcode-cn.com/problems/excel-sheet-column-title/): 单纯的映射
