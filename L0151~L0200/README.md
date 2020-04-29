@@ -22,3 +22,5 @@
 [L0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/): 从两侧向内进行查找
 
 [L0168](https://leetcode-cn.com/problems/excel-sheet-column-title/): 单纯的映射
+
+[L0169](https://leetcode-cn.com/problems/majority-element/): collections.Counter
