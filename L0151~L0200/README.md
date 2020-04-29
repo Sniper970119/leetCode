@@ -17,6 +17,8 @@
 
 [L0165](https://leetcode-cn.com/problems/compare-version-numbers/): 字符串分割比较数字大小
 
+[L0166](https://leetcode-cn.com/problems/compare-version-numbers/): 对余数部分进行除法，如果余数出现重复现象说明开始循环（整数相除不存在x.131这种情况）
+
 [L0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/): 从两侧向内进行查找
 
 [L0168](https://leetcode-cn.com/problems/excel-sheet-column-title/): 单纯的映射
