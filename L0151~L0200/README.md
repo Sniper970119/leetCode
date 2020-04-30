@@ -26,3 +26,5 @@
 [L0169](https://leetcode-cn.com/problems/majority-element/): collections.Counter
 
 [L0171](https://leetcode-cn.com/problems/excel-sheet-column-number/): 拆分字符串，然后根据位置反计算
+
+[L0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/): 10必须由2（12）和5（15）组成，因此只需要计算n里有多少个5组成即可。
