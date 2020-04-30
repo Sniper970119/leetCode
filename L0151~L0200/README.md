@@ -24,3 +24,5 @@
 [L0168](https://leetcode-cn.com/problems/excel-sheet-column-title/): 单纯的映射
 
 [L0169](https://leetcode-cn.com/problems/majority-element/): collections.Counter
+
+[L0171](https://leetcode-cn.com/problems/excel-sheet-column-number/): 拆分字符串，然后根据位置反计算
