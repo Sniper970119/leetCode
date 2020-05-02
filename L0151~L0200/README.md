@@ -30,3 +30,5 @@
 [L0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/): 10必须由2（12）和5（15）组成，也就是每5个必有一个0产生，因此只需要计算n里有多少个5组成即可。
 
 [L0173](https://leetcode-cn.com/problems/binary-search-tree-iterator/): 先序遍历
+
+[L0175](https://leetcode-cn.com/problems/combine-two-tables/): sql语句  select xxx from xxx left join xxx on xxx
