@@ -34,3 +34,5 @@
 [L0174](https://leetcode-cn.com/problems/dungeon-game/): [笔记](http://www.sniper97.cn/index.php/note/algorithm/3481/)
 
 [L0175](https://leetcode-cn.com/problems/combine-two-tables/): sql语句  select xxx from xxx left join xxx on xxx
+
+[L0176](https://leetcode-cn.com/problems/second-highest-salary/): sql语句 略
