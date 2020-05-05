@@ -38,3 +38,5 @@
 [L0176](https://leetcode-cn.com/problems/second-highest-salary/): sql语句 略
 
 [L0177](https://leetcode-cn.com/problems/nth-highest-salary/): sql语句 略
+
+[L0178](https://leetcode-cn.com/problems/rank-scores/): sql语句 略
