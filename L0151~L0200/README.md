@@ -41,4 +41,6 @@
 
 [L0178](https://leetcode-cn.com/problems/rank-scores/): sql语句 略
 
-[L0178](https://leetcode-cn.com/problems/largest-number/): sql语句 略
+[L0179](https://leetcode-cn.com/problems/largest-number/): 依据x+y和y+x排序
+
+[L0180](https://leetcode-cn.com/problems/consecutive-numbers/): sql语句 略
