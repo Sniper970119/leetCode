@@ -44,3 +44,5 @@
 [L0179](https://leetcode-cn.com/problems/largest-number/): 依据x+y和y+x排序
 
 [L0180](https://leetcode-cn.com/problems/consecutive-numbers/): sql语句 略
+
+[L0181](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers): sql语句 略
