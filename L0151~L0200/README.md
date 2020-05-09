@@ -48,3 +48,5 @@
 [L0181](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers): sql语句 略
 
 [L0182](https://leetcode-cn.com/problems/duplicate-emails/submissions/): sql语句 略
+
+[L0183](https://leetcode-cn.com/problems/customers-who-never-order/): sql语句 略
