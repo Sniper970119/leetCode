@@ -50,3 +50,6 @@
 [L0182](https://leetcode-cn.com/problems/duplicate-emails/submissions/): sql语句 略
 
 [L0183](https://leetcode-cn.com/problems/customers-who-never-order/): sql语句 略
+
+[L0184](https://leetcode-cn.com/problems/department-highest-salary/): sql语句 略
+e en 
