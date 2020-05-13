@@ -55,6 +55,8 @@
 
 [L0185](https://leetcode-cn.com/problems/department-top-three-salaries/): sql语句 略
 
+[L0188](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/): 使用状态动态规划，可以参考之前的[笔记](http://www.sniper97.cn/index.php/note/algorithm/3419/)，另外对于测试用例209那种恶心的用例，直接退化成不限次数就行了
+
 [L0190](https://leetcode-cn.com/problems/reverse-bits/): 列表倒序+补0
 
 [L0191](https://leetcode-cn.com/problems/number-of-1-bits/): 字符串个数统计
