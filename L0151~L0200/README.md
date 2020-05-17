@@ -70,3 +70,5 @@
 [L0198](https://leetcode-cn.com/problems/house-robber/): 简单dp
 
 [L0199](https://leetcode-cn.com/problems/binary-tree-right-side-view/): 根据顺序根右左，遍历整棵树的右子树
+
+[L0200](https://leetcode-cn.com/problems/number-of-islands/): 遍历二维数组，使用传染函数，对1（陆地）的附近进行传染（标记为其他数字，防止重复搜索），对传染次数进行记录即为岛屿数量
