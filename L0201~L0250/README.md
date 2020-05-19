@@ -6,3 +6,5 @@
 
 [L0203](https://leetcode-cn.com/problems/remove-linked-list-elements/): 加头结点遍历链表
 
+[L0204](https://leetcode-cn.com/problems/count-primes/): 厄拉多塞筛法
+
