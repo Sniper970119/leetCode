@@ -8,3 +8,5 @@
 
 [L0204](https://leetcode-cn.com/problems/count-primes/): 厄拉多塞筛法
 
+[L0205](https://leetcode-cn.com/problems/isomorphic-strings/): 时间换空间，检查子串第一次出现位置是否相同（不相同说明不能被等价替换）
+
