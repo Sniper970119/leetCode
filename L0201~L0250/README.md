@@ -10,3 +10,5 @@
 
 [L0205](https://leetcode-cn.com/problems/isomorphic-strings/): 时间换空间，检查子串第一次出现位置是否相同（不相同说明不能被等价替换）
 
+[L0206](https://leetcode-cn.com/problems/reverse-linked-list/): 添加头结点  头插法
+
