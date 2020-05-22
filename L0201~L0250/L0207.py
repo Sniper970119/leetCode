@@ -34,16 +34,20 @@ class Solution(object):
         visited = [0] * numCourses
 
         def dfs(i):
-            if visited[i] == 1: return False
-            if visited[i] == 2: return True
+            if visited[i] == 1:
+                return False
+            if visited[i] == 2:
+                return True
             visited[i] = 1
             for j in g[i]:
-                if not dfs(j): return False
+                if not dfs(j):
+                    return False
             visited[i] = 2
             return True
 
         for i in range(numCourses):
-            if not dfs(i): return False
+            if not dfs(i):
+                return False
         return True
 
 
