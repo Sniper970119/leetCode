@@ -14,6 +14,8 @@
 
 [L0207](https://leetcode-cn.com/problems/course-schedule/): 拓扑排序
 
+[L0208](https://leetcode-cn.com/problems/implement-trie-prefix-tree/): 列表判断，偷懒了
+
 [L0209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/): 双指针法，找最大子序列
 
 [L0210](https://leetcode-cn.com/problems/course-schedule-ii/): 深搜判断有没有环（或拓扑排序）
