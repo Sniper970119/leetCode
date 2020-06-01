@@ -22,3 +22,5 @@
 
 [L0211](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/): 前缀树类似
 
+[L0211](https://leetcode-cn.com/problems/house-robber-ii/): 将环拆成两个队列，然后问题化简成打家劫舍I
+
