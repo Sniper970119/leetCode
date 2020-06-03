@@ -30,4 +30,6 @@
 
 [L0217](https://leetcode-cn.com/problems/contains-duplicate/): return len(nums) != len(set(nums))
 
+[L0219](https://leetcode-cn.com/problems/contains-duplicate-ii/): 循环对比
+
 
