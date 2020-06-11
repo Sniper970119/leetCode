@@ -48,6 +48,5 @@
 
 [L0228](https://leetcode-cn.com/problems/summary-ranges/):遍历，from idx 和to idx，生成输出
 
-
-
+[L0229](https://leetcode-cn.com/problems/majority-element-ii/):collection.Counter  python真香
 
