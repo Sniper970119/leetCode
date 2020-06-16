@@ -54,3 +54,5 @@
 
 [L0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/):左根右遍历
 
+[L0231](https://leetcode-cn.com/problems/power-of-two/):除  就完事了
+
