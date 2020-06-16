@@ -52,3 +52,5 @@
 
 [L0229](https://leetcode-cn.com/problems/majority-element-ii/):collection.Counter  python真香
 
+[L0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/):左根右遍历
+
