@@ -26,6 +26,8 @@
 
 [L0213](https://leetcode-cn.com/problems/house-robber-ii/): 将环拆成两个队列，然后问题化简成打家劫舍I
 
+[L0214](https://leetcode-cn.com/problems/shortest-palindrome/): 字符串翻转，寻找最小回文字
+
 [L0215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/): 排序，倒索引
 
 [L0216](https://leetcode-cn.com/problems/combination-sum-iii/): 回溯法
