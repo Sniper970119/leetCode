@@ -60,3 +60,5 @@
 
 [L0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/):队列
 
+[L0234](https://leetcode-cn.com/problems/palindrome-linked-list/):链表转列表，然后判断
+
