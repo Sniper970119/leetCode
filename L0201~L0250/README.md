@@ -34,6 +34,8 @@
 
 [L0217](https://leetcode-cn.com/problems/contains-duplicate/): return len(nums) != len(set(nums))
 
+[L0218](https://leetcode-cn.com/problems/the-skyline-problem/): 扫描线法，最大堆
+
 [L0219](https://leetcode-cn.com/problems/contains-duplicate-ii/): 循环对比
 
 [L0220](https://leetcode-cn.com/problems/contains-duplicate-iii/): 循环对比
