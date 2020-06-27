@@ -64,6 +64,8 @@
 
 [L0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/):队列
 
+[L0233](https://leetcode-cn.com/problems/number-of-digit-one/):数学规律
+
 [L0234](https://leetcode-cn.com/problems/palindrome-linked-list/):链表转列表，然后判断
 
 [L0235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/):利用二叉搜索树的特性
