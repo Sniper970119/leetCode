@@ -71,3 +71,5 @@
 [L0235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/):利用二叉搜索树的特性
 
 [L0237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/):....
+
+[L0242](https://leetcode-cn.com/problems/valid-anagram/):排序比较
