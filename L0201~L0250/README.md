@@ -74,4 +74,6 @@
 
 [L0237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/):....
 
+[L0238](https://leetcode-cn.com/problems/product-of-array-except-self/): 将目标列表分割为左右两个部分求和，类似于打表？
+
 [L0242](https://leetcode-cn.com/problems/valid-anagram/):排序比较
