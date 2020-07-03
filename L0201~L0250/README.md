@@ -44,35 +44,35 @@
 
 [L0222](https://leetcode-cn.com/problems/count-complete-tree-nodes/): 遍历
 
-[L0223](https://leetcode-cn.com/problems/rectangle-area/):两部分面基面积和 - 重叠部分面积
+[L0223](https://leetcode-cn.com/problems/rectangle-area/): 两部分面基面积和 - 重叠部分面积
 
-[L0224](https://leetcode-cn.com/problems/basic-calculator/):栈操作
+[L0224](https://leetcode-cn.com/problems/basic-calculator/): 栈操作
 
-[L0225](https://leetcode-cn.com/problems/implement-stack-using-queues/):队列实现栈
+[L0225](https://leetcode-cn.com/problems/implement-stack-using-queues/): 队列实现栈
 
-[L0226](https://leetcode-cn.com/problems/invert-binary-tree/):左右子树交换
+[L0226](https://leetcode-cn.com/problems/invert-binary-tree/): 左右子树交换
 
-[L0227](https://leetcode-cn.com/problems/basic-calculator-ii/):eval
+[L0227](https://leetcode-cn.com/problems/basic-calculator-ii/): eval
 
-[L0228](https://leetcode-cn.com/problems/summary-ranges/):遍历，from idx 和to idx，生成输出
+[L0228](https://leetcode-cn.com/problems/summary-ranges/): 遍历，from idx 和to idx，生成输出
 
-[L0229](https://leetcode-cn.com/problems/majority-element-ii/):collection.Counter  python真香
+[L0229](https://leetcode-cn.com/problems/majority-element-ii/): collection.Counter  python真香
 
-[L0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/):左根右遍历
+[L0230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/): 左根右遍历
 
-[L0231](https://leetcode-cn.com/problems/power-of-two/):除  就完事了
+[L0231](https://leetcode-cn.com/problems/power-of-two/): 除  就完事了
 
-[L0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/):队列
+[L0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/): 队列
 
-[L0233](https://leetcode-cn.com/problems/number-of-digit-one/):数学规律
+[L0233](https://leetcode-cn.com/problems/number-of-digit-one/): 数学规律
 
-[L0234](https://leetcode-cn.com/problems/palindrome-linked-list/):链表转列表，然后判断
+[L0234](https://leetcode-cn.com/problems/palindrome-linked-list/): 链表转列表，然后判断
 
-[L0235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/):利用二叉搜索树的特性
+[L0235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/): 利用二叉搜索树的特性
 
-[L0236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/):左右子树遍历，找到返回root，找不到返回none
+[L0236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/): 左右子树遍历，找到返回root，找不到返回none
 
-[L0237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/):....
+[L0237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/): ....
 
 [L0238](https://leetcode-cn.com/problems/product-of-array-except-self/): 将目标列表分割为左右两个部分求和，类似于打表？
 
@@ -82,4 +82,4 @@
 
 [L0241](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/): 递归
 
-[L0242](https://leetcode-cn.com/problems/valid-anagram/):排序比较
+[L0242](https://leetcode-cn.com/problems/valid-anagram/): 排序比较
