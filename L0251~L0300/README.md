@@ -5,3 +5,5 @@
 [L0258](https://leetcode-cn.com/problems/add-digits/): 转str
 
 [L0260](https://leetcode-cn.com/problems/single-number-iii/): Counter
+
+[L0263](https://leetcode-cn.com/problems/ugly-number/): 递归
