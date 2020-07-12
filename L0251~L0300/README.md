@@ -9,3 +9,5 @@
 [L0263](https://leetcode-cn.com/problems/ugly-number/): 递归
 
 [L0264](https://leetcode-cn.com/problems/ugly-number-ii/): 三指针，分别使用三个指针代表*2、*3，*5，然后进行遍历
+
+[L0268](https://leetcode-cn.com/problems/missing-number/):  添加0-n+1 找出现一次的
