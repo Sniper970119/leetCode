@@ -13,3 +13,5 @@
 [L0268](https://leetcode-cn.com/problems/missing-number/):  添加0-n+1 找出现一次的
 
 [L0278](https://leetcode-cn.com/problems/first-bad-version/):  产品经理死的早
+
+[L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
