@@ -15,3 +15,5 @@
 [L0278](https://leetcode-cn.com/problems/first-bad-version/):  产品经理死的早
 
 [L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
+
+[L0290](https://leetcode-cn.com/problems/word-pattern/):  字符串分割匹配
