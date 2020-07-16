@@ -17,3 +17,5 @@
 [L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
 
 [L0290](https://leetcode-cn.com/problems/word-pattern/):  字符串分割匹配
+
+[L0292](https://leetcode-cn.com/problems/nim-game/):  4的倍数
