@@ -19,6 +19,7 @@
           ┗━┻━┛   ┗━┻━┛
 """
 
+"""
 select
     t.request_at Day,
     (
@@ -36,3 +37,4 @@ and
     t.Request_at <= '2013-10-03'
 group by
     t.Request_at
+"""
