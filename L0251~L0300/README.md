@@ -18,6 +18,8 @@
 
 [L0274](https://leetcode-cn.com/problems/h-index/):  排序
 
+[L0275](https://leetcode-cn.com/problems/h-index-ii/):  二分法
+
 [L0278](https://leetcode-cn.com/problems/first-bad-version/):  产品经理死的早
 
 [L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
