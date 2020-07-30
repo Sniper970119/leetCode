@@ -22,6 +22,8 @@
 
 [L0278](https://leetcode-cn.com/problems/first-bad-version/):  产品经理死的早
 
+[L0279](https://leetcode-cn.com/problems/perfect-squares/):  四平方定理
+
 [L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
 
 [L0284](https://leetcode-cn.com/problems/peeking-iterator/):  -
