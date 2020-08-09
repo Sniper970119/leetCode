@@ -25,4 +25,3 @@ class Solution(object):
         :type num: str
         :rtype: bool
         """
-
