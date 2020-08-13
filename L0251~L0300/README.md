@@ -28,6 +28,8 @@
 
 [L0284](https://leetcode-cn.com/problems/peeking-iterator/):  -
 
+[L0287](https://leetcode-cn.com/problems/find-the-duplicate-number/):  [笔记链接](http://www.sniper97.cn/index.php/note/algorithm/3554/)
+
 [L0290](https://leetcode-cn.com/problems/word-pattern/):  字符串分割匹配
 
 [L0292](https://leetcode-cn.com/problems/nim-game/):  4的倍数
