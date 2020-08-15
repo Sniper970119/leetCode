@@ -24,6 +24,8 @@
 
 [L0279](https://leetcode-cn.com/problems/perfect-squares/):  四平方定理
 
+[L0282](https://leetcode-cn.com/problems/expression-add-operators/):  回溯法
+
 [L0283](https://leetcode-cn.com/problems/move-zeroes/):  remove + append
 
 [L0284](https://leetcode-cn.com/problems/peeking-iterator/):  -
