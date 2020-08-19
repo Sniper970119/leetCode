@@ -5,3 +5,5 @@
 [L0326](https://leetcode-cn.com/problems/power-of-three/): 站桩相除
 
 [L0342](https://leetcode-cn.com/problems/power-of-four/): 站桩相除
+
+[L0344](https://leetcode-cn.com/problems/reverse-string/): reverse  python还是香啊
