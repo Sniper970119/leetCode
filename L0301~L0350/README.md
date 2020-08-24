@@ -6,4 +6,4 @@
 
 [L0342](https://leetcode-cn.com/problems/power-of-four/): 辗转相除
 
-[L0344](https://leetcode-cn.com/problems/reverse-string/): reverse  python还是香啊!
+[L0344](https://leetcode-cn.com/problems/reverse-string/): reverse  python还是香啊
