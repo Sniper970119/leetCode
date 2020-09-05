@@ -8,4 +8,4 @@
 
 [L0344](https://leetcode-cn.com/problems/reverse-string/): reverse  python还是香啊!
 
-[L0345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/): 双指针法
+[L0345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/): 双指针法.
