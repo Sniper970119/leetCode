@@ -37,3 +37,5 @@
 [L0292](https://leetcode-cn.com/problems/nim-game/):  4的倍数
 
 [L0299](https://leetcode-cn.com/problems/bulls-and-cows/):  遍历判断
+
+[L0300](https://leetcode-cn.com/problems/longest-increasing-subsequence/):  emm 这个是O（nlgn）的复杂度，应该是带点动归的思路，基础dp？
