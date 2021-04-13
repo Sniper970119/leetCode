@@ -29,10 +29,9 @@ class Solution(object):
         """
         if len(s) < 2:
             return True
+        can_jump = True
         left, right = 0, len(s) - 1
         while left <= right:
-            if left == right or left - right == 1 or right - left == 1:
-                return True
             if s[left] == s[right]:
                 left += 1
                 right -= 1
@@ -40,9 +39,14 @@ class Solution(object):
                 return True
             else:
                 return False
-        return False
+        return True
 
     def verify(self, s):
+        """
+        直接判断是否为回文串
+        :param s:
+        :return:
+        """
         if len(s) % 2 == 0:
             mid = int(len(s) / 2)
             if s[:mid] == s[mid:][::-1]:
