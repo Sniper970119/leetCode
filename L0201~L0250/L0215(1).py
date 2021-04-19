@@ -12,11 +12,12 @@
         ┃　　　┃   神兽保佑
         ┃　　　┃   代码无BUG！
         ┃　　　┗━━━━━━━━━┓
-        ┃　　　　　　　    ┣┓
+        ┃CREATE BY SNIPER┣┓
         ┃　　　　         ┏┛
         ┗━┓ ┓ ┏━━━┳ ┓ ┏━┛
           ┃ ┫ ┫   ┃ ┫ ┫
           ┗━┻━┛   ┗━┻━┛
+
 """
 
 
@@ -27,12 +28,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        nums.sort()
-        return nums[-k]
+        import heapq
+        return heapq.nlargest(k, nums)[-1]
 
 
 if __name__ == '__main__':
-    nums = [3, 2, 3, 1, 2, 4, 5, 5, 6]
     nums = [3, 2, 1, 5, 6, 4]
+    nums = [3, 2, 3, 1, 2, 4, 5, 5, 6]
     k = 2
+    k = 4
     print(Solution().findKthLargest(nums, k))
